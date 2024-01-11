@@ -14,7 +14,7 @@ public class SecondoEsercizio {
 
         System.out.println(sim1.getCredito());
 
-        System.out.println(sim1.verificaChiamata(120,"369852"));
+        System.out.println(sim1.verificaChiamata(120,"369852"));System.out.println(sim1.verificaChiamata(120,"369852"));System.out.println(sim1.verificaChiamata(120,"369852"));System.out.println(sim1.verificaChiamata(120,"369852"));System.out.println(sim1.verificaChiamata(120,"369852"));
 
         System.out.println(sim1.getCredito());
 
