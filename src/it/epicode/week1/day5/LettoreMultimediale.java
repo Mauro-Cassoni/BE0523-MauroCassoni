@@ -180,7 +180,7 @@ public class LettoreMultimediale {
                         System.out.println("3 abbassa luminosità");
                         System.out.println("0 esci");
                         n1 = scanner.nextInt();
-                        if (n1 < 0 || n1 > 4) {
+                        if (n1 < 0 || n1 > 3) {
                             System.out.println("Scelta non dipsonibile, chiusura programma...");
                             return;
                         } else {
