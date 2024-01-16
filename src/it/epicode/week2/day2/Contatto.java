@@ -18,7 +18,12 @@ public class Contatto {
         System.out.println("cerca con numero: " + searchByNumber("321456987"));
         System.out.println("cerca con numero: " + searchByNumber("321654988"));
         System.out.println("cerca con nome: " + searchByName("Ema"));
+        System.out.println("cerca con nome: " + searchByName("Emi"));
         removeByName("Emi");
+        System.out.println("cerca con nome: " + searchByName("Emi"));
+        add("Emi", "987654321");
+        System.out.println("cerca con nome: " + searchByName("Emi"));
+
 
         stampaRubrica();
 
